@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-KatieSpeakman/static/css/main.c2cab247.css",
+    "main.js": "/portfolio-KatieSpeakman/static/js/main.7d3fbede.js",
+    "index.html": "/portfolio-KatieSpeakman/index.html",
+    "main.c2cab247.css.map": "/portfolio-KatieSpeakman/static/css/main.c2cab247.css.map",
+    "main.7d3fbede.js.map": "/portfolio-KatieSpeakman/static/js/main.7d3fbede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.7d3fbede.js"
+  ]
+}
