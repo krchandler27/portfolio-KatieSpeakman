@@ -1,0 +1,11 @@
+.katie-picture {
+    display: block;
+    max-width: 500px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+    flex: 0 0 300px;
+    margin: 20px;
+    border-radius: 50px;
+    border: 10px solid white;
+}
