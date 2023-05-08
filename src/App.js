@@ -12,15 +12,15 @@ export default function App() {
  
     return (
         <>
-        <div className='bs-dark'>
-            <Header/>
-            <Nav/>
-            <Home/>
-            <Resume/>
-            <Portfolio/>
-            <Contact/>
-            <Footer/>
-        </div>
+        <body className="bg-dark text-white">
+            <Header className="col-sm-12 col-md-9 col-lg-6 mx-auto"/>
+            <Nav className="col-sm-12 col-md-9 col-lg-6 mx-auto"/>
+            <Home className="col-sm-12 col-md-9 col-lg-6 mx-auto"/>
+            <Resume className="col-sm-12 col-md-9 col-lg-6 mx-auto"/>
+            <Portfolio className="col-sm-12 col-md-9 col-lg-6 mx-auto"/>
+            <Contact className="col-sm-12 col-md-9 col-lg-6 mx-auto"/>
+            <Footer className="col-sm-12 col-md-9 col-lg-6 mx-auto"/>
+        </body>
         </>
     )
 }

@@ -1,10 +1,11 @@
 import React from 'react';
+import './styles/Resume.css';
 
 export default function Resume() {
   return (
-    <div>
+    <div className="m-5 totalFont bottom">
       <h1>My Resume</h1>
-      <p>
+      <p className="pt-2">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
         ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras

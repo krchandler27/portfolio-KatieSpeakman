@@ -1,0 +1,12 @@
+.totalFont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+p {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+    font-size: 25px;
+}

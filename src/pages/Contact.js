@@ -1,22 +1,19 @@
 import React from 'react';
+import { FaGithub } from 'react-icons/fa';
+import { BsLinkedin } from 'react-icons/bs';
+import { SiGmail } from 'react-icons/si';
+import './styles/Contact.css';
+
 
 export default function Contact() {
   return (
-    <div>
-      <h1>Let's Connect!</h1>
-      <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-        molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-        magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-        efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-        mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-        faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-        ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-        dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-        conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-        rhoncus. Etiam vel condimentum magna, quis tempor nulla.
-      </p>
+    <div className="text-center m-5 totalFont bottom">
+      <h1 id="letsConnect">Let's Connect!</h1>
+      <div className="anchors">
+        <a className="fa-5x m-2" href="mailto:krchandler27@gmail.com?subject=Let's%20Connect!&body=Hi%20Katie,%0D%0A%0D%0AI%20saw%20your%20portfolio,%20and%20I%20wanted%20to%20connect%20with%20you.%0D%0A%0D%0A"> <SiGmail /></a>
+        <a className="fa-5x m-2" href="https://github.com/krchandler27?tab=repositories"> <FaGithub /></a>
+        <a className="fa-5x m-2" href="https://www.linkedin.com/in/katie-speakman/"> <BsLinkedin /></a>
+      </div>
     </div>
   );
 }
