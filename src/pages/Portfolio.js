@@ -16,7 +16,7 @@ class DemoCarousel extends Component {
       >
 
         <div>
-        <a className="fa-5x m-2" href="https://github.com/krchandler27/weather-widget"> <img className="picture" src={weatherWidget} /></a>
+        <a className="" href="https://github.com/krchandler27/weather-widget"> <img className="picture" src={weatherWidget} /></a>
           <p className="">Weather Widget</p>
           
         </div>

@@ -11,9 +11,9 @@
 ## Project Description
 I used react and react components to create a final portfolio to use for job applications and to showcase my work. 
 
-
-
 GitHub Pages Link: https://krchandler27.github.io/portfolio-KatieSpeakman/
+
+![portfolio](https://user-images.githubusercontent.com/116527506/237018375-3fabc0b4-61a8-4b63-944f-ac76e81263ab.JPG)
 
 ## Usage Information
 I will use this portfolio to attract potential employers by showcasing my latest work.
@@ -34,4 +34,4 @@ Hi! My name is Katie Speakman. I hope you enjoyed checking out my portfolio. Let
 * Email: krchandler27@gmail.com
 
 ## License  [![MIT License](https://img.shields.io/badge/License-MIT-blue)]((https://opensource.org/licenses/MIT))
-  DevGeeks is [MIT licensed](./LICENSE).
+  My Portfolio is [MIT licensed](./LICENSE).
