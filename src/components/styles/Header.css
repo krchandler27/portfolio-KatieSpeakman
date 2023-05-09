@@ -14,7 +14,16 @@ header {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.spaceHolder {
-    background-color: rgb(52, 58, 64);
-    color: rgb(52, 58, 64);
+.topNav {
+    background-color: white;
+    padding-right: 200px;
+    padding-left: 200px;
+    font-size: 40px;
+}
+
+.topNav a {
+    color: black !important;
+    font-family: Georgia;
+    font-size: 30px;
+    /* margin-right: 55px; */
 }

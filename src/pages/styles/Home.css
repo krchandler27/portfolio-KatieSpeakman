@@ -1,5 +1,5 @@
 .katie-picture {
-    margin-top: 30px;
+    display:block;
     max-width: 750px;
     max-height: 750px;
     width: auto;
@@ -11,17 +11,18 @@
 #aboutMe {
     color: white;
     font-size: 30px;
-    }
+    margin-top: 100px !important;
+  }
 
 .info {
     font-size: 30px;
-        text-align: justify;
-      font-family: Georgia, 'Times New Roman', Times, serif;
-    max-width: 800px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     }
-    .signature {
-        color: white;
-        font-size: 30px;
-        font-family: Segoe Script, Lucida Handwriting, Edwardian Script;
-        text-align: center;
-    }
+
+.signature {
+    color: white;
+    font-size: 30px;
+    font-family: Segoe Script, Lucida Handwriting, Edwardian Script;
+    text-align: center;
+}
+

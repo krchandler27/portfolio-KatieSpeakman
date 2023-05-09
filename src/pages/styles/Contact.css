@@ -7,10 +7,7 @@ p {
 }
 
 a {
-    color: rgb(42, 226, 42) !important;
+    color: rgb(33, 199, 221) !important;
     text-decoration: none !important;
 }
 
-.bottom {
-    padding-bottom: 250px;
-}

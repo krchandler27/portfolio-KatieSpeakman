@@ -22,7 +22,7 @@ import './styles/Portfolio.css';
 
 export default function Portfolio() {
   return (
-    <div className="m-5 totalFont bottom">
+    <div className="m-5 mt-5 totalFont bottom text-center">
       <h1 id="portfolio">Portfolio</h1>
       <div className="demo-carousel">
        
