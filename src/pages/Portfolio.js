@@ -33,7 +33,7 @@ class DemoCarousel extends Component {
 
 export default function Portfolio() {
   return (
-    <div className="m-5 mt-5 totalFont bottom text-center bg-yellow">
+    <div className="m-5 mt-5 totalFont bottom text-center">
       <h1 id="portfolio">Portfolio</h1>
       <div className='col-lg-6 col-md-6 col-sm-12 mx-auto'>
       <div className="text-center d-flex justify-content-center">
@@ -42,7 +42,6 @@ export default function Portfolio() {
       </div>
     </div>
   );
-  console.log(DemoCarousel);
 }
 
 
