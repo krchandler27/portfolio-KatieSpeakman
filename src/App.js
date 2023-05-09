@@ -16,7 +16,7 @@ export default function App() {
                 <Header className="col-sm-12 col-md-9 col-lg-6 mx-auto" />
                 <Nav className="col-sm-12 col-md-9 col-lg-6 mx-auto" />
                 <Home className="col-sm-12 col-md-9 col-lg-6 mx-auto" />
-                <Portfolio className="col-sm-12 col-md-9 col-lg-6 mx-auto" />
+                <Portfolio className="col-sm-12 col-md-9 col-lg-9 mx-auto" />
                 <Resume className="col-sm-12 col-md-9 col-lg-6 mx-auto" />
                 <Contact className="col-sm-12 col-md-9 col-lg-6 mx-auto" />
                 <Footer className="col-sm-12 col-md-9 col-lg-6 mx-auto" />
