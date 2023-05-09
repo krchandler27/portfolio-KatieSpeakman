@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-KatieSpeakman/static/css/main.c2cab247.css",
-    "main.js": "/portfolio-KatieSpeakman/static/js/main.7d3fbede.js",
+    "main.css": "/portfolio-KatieSpeakman/static/css/main.a957d2ba.css",
+    "main.js": "/portfolio-KatieSpeakman/static/js/main.ea713317.js",
+    "static/media/KatiePic.jpg": "/portfolio-KatieSpeakman/static/media/KatiePic.3649e6fbffd4c9cfe991.jpg",
+    "static/media/weather-widget.JPG": "/portfolio-KatieSpeakman/static/media/weather-widget.c7eddd4dbc8e3e6f9a19.JPG",
+    "static/media/password-generator.JPG": "/portfolio-KatieSpeakman/static/media/password-generator.0f1f7c33167f7f4e174b.JPG",
     "index.html": "/portfolio-KatieSpeakman/index.html",
-    "main.c2cab247.css.map": "/portfolio-KatieSpeakman/static/css/main.c2cab247.css.map",
-    "main.7d3fbede.js.map": "/portfolio-KatieSpeakman/static/js/main.7d3fbede.js.map"
+    "main.a957d2ba.css.map": "/portfolio-KatieSpeakman/static/css/main.a957d2ba.css.map",
+    "main.ea713317.js.map": "/portfolio-KatieSpeakman/static/js/main.ea713317.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.7d3fbede.js"
+    "static/css/main.a957d2ba.css",
+    "static/js/main.ea713317.js"
   ]
 }
