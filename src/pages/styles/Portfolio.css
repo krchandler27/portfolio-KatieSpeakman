@@ -6,16 +6,6 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-/* .carouselContainer {
-    text-align: center;
-
-} */
-
-/* .carouselContainer * + * {
-    display: flex;
-    margin: auto;
-} */
-
 .carousel-slider {
     display:flex;
     margin: auto;

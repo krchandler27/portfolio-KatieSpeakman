@@ -4,7 +4,7 @@ import './styles/Resume.css';
 export default function Resume() {
   return (
     <div className="m-5 totalFont bottom text-center">
-      <h1>Experience</h1>
+      <h1 className="display-4">Experience</h1>
       <p className="pt-2">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
