@@ -6,43 +6,93 @@ import './styles/Portfolio.css';
 import weatherWidget from '../assets/images/weather-widget.JPG';
 import passwordGenerator from '../assets/images/password-generator.JPG';
 import { FaGithub } from 'react-icons/fa';
+import dailyPlanner from '../assets/images/screen-shot.JPG';
+import codeQuiz from '../assets/images/site.JPG';
+import devGeeks from '../assets/images/devGeeks1.JPG';
+import notely from '../assets/images/notely.jpg';
+import teamProfile from '../assets/images/team-profile.jpg';
+import grCritic from '../assets/images/grooveCritic.JPG';
 
 
 
 class DemoCarousel extends Component {
   render() {
     return (
-      <Carousel maxWidth={750}>
+      <Carousel
+        maxWidth={750}
+      >
 
         <a className="" href=" https://krchandler27.github.io/weather-widget/">
           <div>
-          <img className="picture" src={weatherWidget} />
-          <p className="display-5 mt-3">Weather Widget  &nbsp;<span> <a className="" href="https://github.com/krchandler27/weather-widget"> <FaGithub /> </a></span></p>
-        </div>
-        </a>
-{/* Here */}
-        <a className="" href=" https://krchandler27.github.io/weather-widget/">
-          <div>
-          <img className="picture" src={passwordGenerator} />
-          <p className="display-5 mt-3">Password Generator  &nbsp;<span> <a className="" href="https://github.com/krchandler27/weather-widget"> <FaGithub /> </a></span></p>
-        </div>
+            <img className="picture" src={weatherWidget} />
+            <p className="display-6 mt-4">Weather Widget  &nbsp;<span> <a className="" href="https://github.com/krchandler27/weather-widget"> <FaGithub /> </a></span></p>
+          </div>
         </a>
 
-        <a className="" href=" https://krchandler27.github.io/weather-widget/">
+        <a className="" href="https://krchandler27.github.io/password-generator/">
           <div>
-          <img className="picture" src={weatherWidget} />
-          <p className="display-5 mt-3">Weather Widget  &nbsp;<span> <a className="" href="https://github.com/krchandler27/weather-widget"> <FaGithub /> </a></span></p>
-        </div>
+            <img className="picture" src={passwordGenerator} />
+            <p className="display-6 mt-4">Password Generator  &nbsp;<span> <a className="" href="https://github.com/krchandler27/password-generator"> <FaGithub /> </a></span></p>
+          </div>
         </a>
 
-        <a className="" href=" https://krchandler27.github.io/weather-widget/">
+        <a className="" href="https://krchandler27.github.io/daily-planner/">
           <div>
-          <img className="picture" src={weatherWidget} />
-          <p className="display-5 mt-3">Weather Widget  &nbsp;<span> <a className="" href="https://github.com/krchandler27/weather-widget"> <FaGithub /> </a></span></p>
-        </div>
+            <img className="picture" src={dailyPlanner} />
+            <p className="display-6 mt-4">Daily Planner  &nbsp;<span> <a className="" href="https://github.com/krchandler27/daily-planner"> <FaGithub /> </a></span></p>
+          </div>
         </a>
 
-            </Carousel>
+        <a className="" href="https://krchandler27.github.io/test-your-knowledge/">
+          <div>
+            <img className="picture" src={codeQuiz} />
+            <p className="display-6 mt-4">Coding Quiz  &nbsp;<span> <a className="" href="https://github.com/krchandler27/test-your-knowledge"> <FaGithub /> </a></span></p>
+          </div>
+        </a>
+
+        <a className="" href="https://dev-geeks.herokuapp.com/">
+          <div>
+            <img className="picture" src={devGeeks} />
+            <p className="display-6 mt-4"> devGeeks 🤓 &nbsp;<span> <a className="" href="https://github.com/krchandler27/devGeeks"> <FaGithub /> </a></span></p>
+          </div>
+        </a>
+
+        <a className="" href="https://notely115.herokuapp.com/">
+          <div>
+            <img className="picture" src={notely} />
+            <p className="display-6 mt-4"> Notely  &nbsp;<span> <a className="" href="https://github.com/krchandler27/notely-app"> <FaGithub /> </a></span></p>
+          </div>
+        </a>
+
+        <a className="" href="https://www.loom.com/share/a5aafacc297547bb9b9526522bb2d1bc">
+          <div>
+            <img className="picture" src={teamProfile} />
+            <p className="display-6 mt-4">Team Profile Generator &nbsp;<span> <a className="" href="https://github.com/krchandler27/team-profile-generator"> <FaGithub /> </a></span></p>
+          </div>
+        </a>
+       
+        <a className="" href="https://groove-critic.herokuapp.com/">
+          <div>
+            <img className="picture" src={grCritic} />
+            <p className="display-6 mt-4"> Groove Critic  &nbsp;<span> <a className="" href="https://github.com/krchandler27/groove-critic"> <FaGithub /> </a></span></p>
+          </div>
+        </a>
+ {/* Here */}
+        <a className="" href="https://notely115.herokuapp.com/">
+          <div>
+            <img className="picture" src={notely} />
+            <p className="display-6 mt-4"> Notely  &nbsp;<span> <a className="" href="https://github.com/krchandler27/notely-app"> <FaGithub /> </a></span></p>
+          </div>
+        </a>
+
+        <a className="" href="https://notely115.herokuapp.com/">
+          <div>
+            <img className="picture" src={notely} />
+            <p className="display-6 mt-4"> Notely  &nbsp;<span> <a className="" href="https://github.com/krchandler27/notely-app"> <FaGithub /> </a></span></p>
+          </div>
+        </a>
+
+      </Carousel>
 
     );
   }
