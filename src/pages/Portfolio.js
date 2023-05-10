@@ -12,6 +12,8 @@ import devGeeks from '../assets/images/devGeeks1.JPG';
 import notely from '../assets/images/notely.jpg';
 import teamProfile from '../assets/images/team-profile.jpg';
 import grCritic from '../assets/images/grooveCritic.JPG';
+import jate from '../assets/images/jate.JPG';
+import pageTurner from '../assets/images/page-turner.JPG';
 
 
 
@@ -77,18 +79,18 @@ class DemoCarousel extends Component {
             <p className="display-6 mt-4"> Groove Critic  &nbsp;<span> <a className="" href="https://github.com/krchandler27/groove-critic"> <FaGithub /> </a></span></p>
           </div>
         </a>
- {/* Here */}
-        <a className="" href="https://notely115.herokuapp.com/">
+
+        <a className="" href="https://just-another-text-editor-215.herokuapp.com/">
           <div>
-            <img className="picture" src={notely} />
-            <p className="display-6 mt-4"> Notely  &nbsp;<span> <a className="" href="https://github.com/krchandler27/notely-app"> <FaGithub /> </a></span></p>
+            <img className="picture" src={jate} />
+            <p className="display-6 mt-4"> J.A.T.E.  &nbsp;<span> <a className="" href="https://github.com/krchandler27/timeless-text-transformer"> <FaGithub /> </a></span></p>
           </div>
         </a>
-
-        <a className="" href="https://notely115.herokuapp.com/">
+ {/* Here */}
+        <a className="" href="https://page-turner-book-club.herokuapp.com/">
           <div>
-            <img className="picture" src={notely} />
-            <p className="display-6 mt-4"> Notely  &nbsp;<span> <a className="" href="https://github.com/krchandler27/notely-app"> <FaGithub /> </a></span></p>
+            <img className="picture" src={pageTurner} />
+            <p className="display-6 mt-4"> 📚 Page Turner  &nbsp;<span> <a className="" href="https://github.com/krchandler27/page-turner"> <FaGithub /> </a></span></p>
           </div>
         </a>
 
