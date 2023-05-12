@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio-KatieSpeakman/static/css/main.65de02bb.css",
-    "main.js": "/portfolio-KatieSpeakman/static/js/main.50661c03.js",
+    "main.css": "/portfolio-KatieSpeakman/static/css/main.1ad908cf.css",
+    "main.js": "/portfolio-KatieSpeakman/static/js/main.bfc273b4.js",
     "static/media/KatiePic.jpg": "/portfolio-KatieSpeakman/static/media/KatiePic.3649e6fbffd4c9cfe991.jpg",
-    "static/media/devGeeks1.JPG": "/portfolio-KatieSpeakman/static/media/devGeeks1.a860b419545056276187.JPG",
-    "static/media/grooveCritic.JPG": "/portfolio-KatieSpeakman/static/media/grooveCritic.73ab555470bb50ea4490.JPG",
-    "static/media/weather-widget.JPG": "/portfolio-KatieSpeakman/static/media/weather-widget.c7eddd4dbc8e3e6f9a19.JPG",
-    "static/media/site.JPG": "/portfolio-KatieSpeakman/static/media/site.398292d42881eddc1396.JPG",
-    "static/media/page-turner.JPG": "/portfolio-KatieSpeakman/static/media/page-turner.35742c7f945d5d4dd809.JPG",
-    "static/media/screen-shot.JPG": "/portfolio-KatieSpeakman/static/media/screen-shot.03d924edb614f400b4d9.JPG",
+    "static/media/devGeeks1.JPG": "/portfolio-KatieSpeakman/static/media/devGeeks1.e9be47b03dfa2823decc.JPG",
+    "static/media/grooveCritic.JPG": "/portfolio-KatieSpeakman/static/media/grooveCritic.24025dd4b3e5ff22aa4a.JPG",
+    "static/media/coding-quiz.JPG": "/portfolio-KatieSpeakman/static/media/coding-quiz.398292d42881eddc1396.JPG",
+    "static/media/daily-planner.JPG": "/portfolio-KatieSpeakman/static/media/daily-planner.01f297a0496bbf55cf9a.JPG",
+    "static/media/weather-widget.JPG": "/portfolio-KatieSpeakman/static/media/weather-widget.da71d787d0f690a3ffc3.JPG",
+    "static/media/page-turner.JPG": "/portfolio-KatieSpeakman/static/media/page-turner.dfdf1186ca7cc3b08b19.JPG",
     "static/media/team-profile.jpg": "/portfolio-KatieSpeakman/static/media/team-profile.8c89fc5c4b21b92d5d15.jpg",
-    "static/media/password-generator.JPG": "/portfolio-KatieSpeakman/static/media/password-generator.0f1f7c33167f7f4e174b.JPG",
-    "static/media/notely.jpg": "/portfolio-KatieSpeakman/static/media/notely.23e3fa2b4cc31802003e.jpg",
-    "static/media/jate.JPG": "/portfolio-KatieSpeakman/static/media/jate.8f281769f8952a783d37.JPG",
+    "static/media/password-generator.JPG": "/portfolio-KatieSpeakman/static/media/password-generator.02122fdf64a90543ff70.JPG",
+    "static/media/jate.JPG": "/portfolio-KatieSpeakman/static/media/jate.212e66954366e803b41c.JPG",
+    "static/media/notely.jpg": "/portfolio-KatieSpeakman/static/media/notely.0a992de3dd39a098a340.jpg",
     "index.html": "/portfolio-KatieSpeakman/index.html",
-    "main.65de02bb.css.map": "/portfolio-KatieSpeakman/static/css/main.65de02bb.css.map",
-    "main.50661c03.js.map": "/portfolio-KatieSpeakman/static/js/main.50661c03.js.map"
+    "main.1ad908cf.css.map": "/portfolio-KatieSpeakman/static/css/main.1ad908cf.css.map",
+    "main.bfc273b4.js.map": "/portfolio-KatieSpeakman/static/js/main.bfc273b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.65de02bb.css",
-    "static/js/main.50661c03.js"
+    "static/css/main.1ad908cf.css",
+    "static/js/main.bfc273b4.js"
   ]
 }
