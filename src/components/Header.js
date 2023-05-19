@@ -15,7 +15,7 @@ export default function Header() {
             <div className="topNav d-flex flex-wrap mx-auto justify-content-between text-center align-items-center pt-1 pb-1 mb-4">
                 <a href="#aboutMe">About</a>
                 <a href="#portfolio">Portfolio</a>
-                <a href="#portfolio">Experience</a>
+                <a href="#experience">Experience</a>
                 <a href="#letsConnect"> Contact </a>
                 <a className="fa-4x m-2" href="mailto:krchandler27@gmail.com?subject=Let's%20Connect!&body=Hi%20Katie,%0D%0A%0D%0AI%20saw%20your%20portfolio,%20and%20I%20wanted%20to%20connect%20with%20you.%0D%0A%0D%0A"> <SiGmail /></a>
                 <a className="fa-4x m-2" href="https://github.com/krchandler27?tab=repositories"> <FaGithub /></a>

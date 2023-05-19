@@ -10,3 +10,17 @@ p {
     line-height: 2;
     font-size: 25px;
 }
+
+li {
+    margin-bottom: 15px;
+    text-align: left;
+    font-size: 25px;
+}
+
+.color {
+    color: rgb(33, 199, 221) !important;
+}
+
+.negative {
+    margin-top: -50px !important;
+}
