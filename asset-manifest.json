@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-KatieSpeakman/static/css/main.1ad908cf.css",
+    "main.css": "/portfolio-KatieSpeakman/static/css/main.99353c6b.css",
     "main.js": "/portfolio-KatieSpeakman/static/js/main.bfc273b4.js",
     "static/media/KatiePic.jpg": "/portfolio-KatieSpeakman/static/media/KatiePic.3649e6fbffd4c9cfe991.jpg",
     "static/media/devGeeks1.JPG": "/portfolio-KatieSpeakman/static/media/devGeeks1.e9be47b03dfa2823decc.JPG",
@@ -14,11 +14,11 @@
     "static/media/jate.JPG": "/portfolio-KatieSpeakman/static/media/jate.212e66954366e803b41c.JPG",
     "static/media/notely.jpg": "/portfolio-KatieSpeakman/static/media/notely.0a992de3dd39a098a340.jpg",
     "index.html": "/portfolio-KatieSpeakman/index.html",
-    "main.1ad908cf.css.map": "/portfolio-KatieSpeakman/static/css/main.1ad908cf.css.map",
+    "main.99353c6b.css.map": "/portfolio-KatieSpeakman/static/css/main.99353c6b.css.map",
     "main.bfc273b4.js.map": "/portfolio-KatieSpeakman/static/js/main.bfc273b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ad908cf.css",
+    "static/css/main.99353c6b.css",
     "static/js/main.bfc273b4.js"
   ]
 }
