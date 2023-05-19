@@ -6,8 +6,8 @@ import './styles/Portfolio.css';
 import weatherWidget from '../assets/images/weather-widget.JPG';
 import passwordGenerator from '../assets/images/password-generator.JPG';
 import { FaGithub } from 'react-icons/fa';
-import dailyPlanner from '../assets/images/screen-shot.JPG';
-import codeQuiz from '../assets/images/site.JPG';
+import dailyPlanner from '../assets/images/daily-planner.JPG';
+import codeQuiz from '../assets/images/coding-quiz.JPG';
 import devGeeks from '../assets/images/devGeeks1.JPG';
 import notely from '../assets/images/notely.jpg';
 import teamProfile from '../assets/images/team-profile.jpg';
@@ -21,7 +21,7 @@ class DemoCarousel extends Component {
   render() {
     return (
       <Carousel
-        maxWidth={750}
+        maxWidth={500}
       >
 
         <a className="" href=" https://krchandler27.github.io/weather-widget/">
@@ -52,14 +52,7 @@ class DemoCarousel extends Component {
           </div>
         </a>
 
-        <a className="" href="https://dev-geeks.herokuapp.com/">
-          <div>
-            <img className="picture" src={devGeeks} />
-            <p className="display-6 mt-4"> devGeeks 🤓 &nbsp;<span> <a className="" href="https://github.com/krchandler27/devGeeks"> <FaGithub /> </a></span></p>
-          </div>
-        </a>
-
-        <a className="" href="https://notely115.herokuapp.com/">
+               <a className="" href="https://notely115.herokuapp.com/">
           <div>
             <img className="picture" src={notely} />
             <p className="display-6 mt-4"> Notely  &nbsp;<span> <a className="" href="https://github.com/krchandler27/notely-app"> <FaGithub /> </a></span></p>
@@ -86,13 +79,22 @@ class DemoCarousel extends Component {
             <p className="display-6 mt-4"> J.A.T.E.  &nbsp;<span> <a className="" href="https://github.com/krchandler27/timeless-text-transformer"> <FaGithub /> </a></span></p>
           </div>
         </a>
- {/* Here */}
+ 
         <a className="" href="https://page-turner-book-club.herokuapp.com/">
           <div>
             <img className="picture" src={pageTurner} />
             <p className="display-6 mt-4"> 📚 Page Turner  &nbsp;<span> <a className="" href="https://github.com/krchandler27/page-turner"> <FaGithub /> </a></span></p>
           </div>
         </a>
+
+        <a className="" href="https://dev-geeks.herokuapp.com/">
+          <div>
+            <img className="picture" src={devGeeks} />
+            <p className="display-6 mt-4"> devGeeks 🤓 &nbsp;<span> <a className="" href="https://github.com/krchandler27/devGeeks"> <FaGithub /> </a></span></p>
+          </div>
+        </a>
+        {/* Here */}
+        
 
       </Carousel>
 
@@ -104,9 +106,10 @@ export default function Portfolio() {
   return (
     <div className="m-5 mt-5 totalFont bottom text-center">
       <h1 id="portfolio" className="display-4 mb-4">Portfolio</h1>
-      <div className='col-lg-6 col-md-6 col-sm-12 mx-auto'>
-        <div className="text-center d-flex justify-content-center">
-          <DemoCarousel />
+      <div className='col-lg-9 col-md-9 col-sm-12 mx-auto'>
+        <div className="row text-center d-flex justify-content-center">
+          <DemoCarousel
+           />
         </div>
       </div>
     </div>
